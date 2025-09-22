@@ -1,0 +1,8 @@
+=== Emerge Child Sexual Abuse and Exploitation Declaration ===
+
+  1. Reporting content can be done within the app.
+  2. Child Sexual Abuse Material (CSAM) can be reported within the app.
+  3. Users who have been reported as uploading CSAM will be banned from using any and all Emerge services indefinetly.
+  4. When a report has been made of CSAM, the appropriate authorities will be contacted.
+  5. Any and all CSAM material is removed instantly if the content has been found to have been uploaded by a user.
+  6. Content may be randomly scanned for CSAM if the uploader has the same Internet Protocol (IP) address as a previous offender.
